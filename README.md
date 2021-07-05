@@ -13,12 +13,12 @@ map screen contains a button, which redirect to another screen which have gridvi
 gridview display two contents, one image & other is author name.
 
 following third party libraries used in this application.
-hive:                           for local data storage
-hive_flutter:                   for local data storage
-path_provider:                  for accessing application directory path
-google_maps_flutter:            for displaying map
-permission_handler:             for permission
-geolocator:                     for featching user current location
-http:                           for api call
-cached_network_image:           for image displaying in grid view
-image_picker:                   for picking image from phone gallery
+hive:                           for local data storage,
+hive_flutter:                   for local data storage,
+path_provider:                  for accessing application directory path,
+google_maps_flutter:            for displaying map,
+permission_handler:             for permission,
+geolocator:                     for featching user current location,
+http:                           for api call,
+cached_network_image:           for image displaying in grid view,
+image_picker:                   for picking image from phone gallery,
